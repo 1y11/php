@@ -1,0 +1,30 @@
+main {
+    height: 600px;
+    width: 300px;
+    background-color: white;
+  }
+  .links {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  .links a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  .links a:hover {
+   background-color: #555;
+    color: white;
+  }
+ 
+
+
+  
